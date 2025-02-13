@@ -1,6 +1,6 @@
 # Opdracht 1
 # Naam student: Bjorn Koerhuis
-# Groep:
+# Groep: 4ITX7
 
 # Hier komt je code...
 
