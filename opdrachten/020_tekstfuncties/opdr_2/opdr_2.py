@@ -4,7 +4,7 @@
 
 # Hier komt je code...
 
-my_string = "Tinus gaat op zijn tandem naar de hottentottententoonstelling" 
-my_list = 'De letter "t" komt 10x voor in my_string'
+my_string = "Tinus gaat op zijn tandem naar de hottentottententoonstelling"
+x = my_string.count("t")
 
-print()
+print(f"De letter 't' komt {x}x voor in my_string")
