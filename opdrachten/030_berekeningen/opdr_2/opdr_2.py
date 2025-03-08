@@ -10,6 +10,7 @@ F = 102
 celcius = (F - 32) / 1.8
 fahrenheit = (C * 1.8) + 32
 
+# Geen idee hoe ik een float afrond.
 print(f"{C} graden Celcius is gelijk aan {fahrenheit} graden Fahrenheit")
 print(f"{F} graden fahrenheit is gelijk aan {celcius} graden Celcius")
 
