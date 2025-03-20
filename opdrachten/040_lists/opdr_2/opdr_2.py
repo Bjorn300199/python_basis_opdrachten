@@ -11,5 +11,5 @@ rivier_info = {
 
 rivieren = list(rivier_info.keys())
 # rivieren is nu een list met alleen de riviernamen: ['rijn', 'maas', 'nijl']
-print(rivieren[0])
-print(rivieren[1])
+
+# Hier jouw code.....
