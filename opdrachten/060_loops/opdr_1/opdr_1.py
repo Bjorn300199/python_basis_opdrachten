@@ -2,8 +2,15 @@
 # Naam student:
 # Groep:
 
-# Hier komt je code, maak gebruik van de input functie om de lengte van de rechthoekzijden van de driehoek op te vragen.
+# Maak een loop waarin je een lijst vult met de getallen van 1 t/m 10. Print de lijst op het scherm.
 
 # Hier start de for-loop....
 
 my_list = []
+
+for i in range(10):
+    cijfer = input(f"Cijfer {i}: ")
+    my_list.append(cijfer)
+
+print("Cijfers van 1 tot 10 in een list.")
+print(my_list)
