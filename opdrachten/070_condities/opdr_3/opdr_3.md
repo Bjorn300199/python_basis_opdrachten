@@ -21,7 +21,7 @@ Schrijf een programma dat gebruik maakt van de gegeven variabelen en een input f
 Het programma geeft de volgende output:
 
 > Geef uw leeftijd in aantal jaar  
-3  
+3 
 U behoort tot de groep kinderen  
 U krijgt 50% korting  
 U betaalt daarom 6.25  
