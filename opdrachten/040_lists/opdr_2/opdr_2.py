@@ -10,15 +10,12 @@ rivier_info = {
 }
 
 rivieren = list(rivier_info.keys())
-# rivieren is nu een list met alleen de riviernamen: ['rijn', 'maas', 'nijl']
-
-# Hier jouw code.....
 print(rivieren[0])
 print(rivier_info["rijn"][1])
-
+ 
 # Heb dit met ChatGPT gedaan. Het is wel duidelijk, rivier = "rijn" Haalt informatie uit de lijst "rijn".
-# land = rivier_info kijkt naar het land in de variable van rij 21 en pakt vervolgens het land dmv het nummer tussen brackets
-# De print pakt eerst de rivier in lijn 22, maakt daar de eerste letter een hoofdletter, dit ook bij land.
+# land = rivier_info kijkt naar het land in de variable van rij 21 en pakt vervolgens het land dmv het nummer tussen brackets 
+# # De print pakt eerst de rivier in lijn 22, maakt daar de eerste letter een hoofdletter, dit ook bij land.
 # Weet niet waarom capatalize() met () moet eindigen.
 rivier = "rijn"
 land = rivier_info[rivier][1]
