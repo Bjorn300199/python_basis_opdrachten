@@ -6,8 +6,7 @@
 def volledige_naam(lijst_met_namen):
     # hier komt jouw code
     # Het woordje pass mag je weghalen
-    pass
-
+    return namen
 
 namen = [
     {"voornaam": "Willem", "tussenvoegsel": "van", "achternaam": "Dijk"},
